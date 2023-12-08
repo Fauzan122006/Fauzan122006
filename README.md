@@ -1,4 +1,4 @@
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Zan, Fauzan](/assets/images/Zann.png)
 
 - 👋 Hi, I’m @Fauzan122006
 - 👀 I’m interested in ...
