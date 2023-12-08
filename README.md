@@ -13,7 +13,7 @@ I am a students at smk informatika komputer ampana kota
  🌱 I’m currently learning <img src="![image](/asset/php.png)
 "> PHP
  
- :books: I want to learn ![tailwind-css-icon](/asset/tailwind-css.png) and ![laravel 995x1024](/asset/laravel.png)
+ :books: I want to learn <img src="/asset/tailwind-css.png" style="width: 20px;"> and <img src="http://www.w3.org/2000/svg"/> and ![laravel 995x1024](/asset/laravel.png)
 "/>
  
 
