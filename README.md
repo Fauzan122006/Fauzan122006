@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW72AChEz0DHmt97k2FnJUK_zj51Qj83iv_w&usqp=CAU" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="/asset/zerotwo.webp" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a students at smk informatika komputer ampana kota
