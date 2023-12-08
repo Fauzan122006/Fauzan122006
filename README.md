@@ -10,11 +10,11 @@ I am a students at smk informatika komputer ampana kota
  
  🔭 I’m planning for a Project **-**.
  
- 🌱 I’m currently learning <img src="![image](https://github.com/Fauzan122006/Fauzan122006/assets/126481402/ec203a2d-d8af-4a83-b29f-3253a9655797)
+ 🌱 I’m currently learning <img src="![image](/asset/php.png)
 "> PHP
  
- :books: I want to learn <img src="![tailwind-css-icon](https://github.com/Fauzan122006/Fauzan122006/assets/126481402/f304b5b6-cd57-4d51-9abe-1c07371a9e35)
-"> and <img src="![laravel 995x1024](https://github.com/Fauzan122006/Fauzan122006/assets/126481402/df46ea91-4f82-4045-bec7-4997e20767b5)
+ :books: I want to learn <img src="![tailwind-css-icon](/asset/tailwind-css.png)
+"> and <img src="![laravel 995x1024](/asset/laravel.png)
 "/>
  
 
