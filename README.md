@@ -13,10 +13,6 @@ I am a students at smk informatika komputer ampana kota
  🌱 I’m currently learning <img src="/asset/php.png" style="width: 20px;"> PHP
  
  :books: I want to learn <img src="/asset/tailwind-css.png" style="width: 20px;"> Tailwind-css & <img src="/asset/laravel.png" style="width: 15px;"> Laravel
- 
-
-
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
 
 
 ---
