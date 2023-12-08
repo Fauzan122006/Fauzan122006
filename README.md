@@ -6,13 +6,16 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW72AChEz0DHmt97k2FnJUK_zj51Qj83iv_w&usqp=CAU" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+I am a students at smk informatika komputer ampana kota
  
  🔭 I’m planning for a Project **-**.
  
- 🌱 I’m currently learning <img src="https://i.pinimg.com/originals/2d/3a/7d/2d3a7d7d1ad7adeded994de246f60c43.png"> PHP
+ 🌱 I’m currently learning <img src="![image](https://github.com/Fauzan122006/Fauzan122006/assets/126481402/ec203a2d-d8af-4a83-b29f-3253a9655797)
+"> PHP
  
- :books: I want to learn <img src="https://stackdiary.com/wp-content/uploads/2022/10/Tailwind-CSS-15-Component-Libraries-UI-Kits.png"> and <img src="https://cdn1.vectorstock.com/i/1000x1000/54/10/laravel-php-web-framework-logo-vector-41005410.jpg"/>
+ :books: I want to learn <img src="![tailwind-css-icon](https://github.com/Fauzan122006/Fauzan122006/assets/126481402/f304b5b6-cd57-4d51-9abe-1c07371a9e35)
+"> and <img src="![laravel 995x1024](https://github.com/Fauzan122006/Fauzan122006/assets/126481402/df46ea91-4f82-4045-bec7-4997e20767b5)
+"/>
  
 
 
