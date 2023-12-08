@@ -1,4 +1,4 @@
-![Zan, Fauzan](/assets/images/Zann.png)
+![Zan, Fauzan](/assets/Zann.jpg)
 
 - 👋 Hi, I’m @Fauzan122006
 - 👀 I’m interested in ...
