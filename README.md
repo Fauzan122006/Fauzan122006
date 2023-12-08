@@ -10,11 +10,10 @@ I am a students at smk informatika komputer ampana kota
  
  🔭 I’m planning for a Project **-**.
  
- 🌱 I’m currently learning <img src="![image](/asset/php.png)
+ 🌱 I’m currently learning <img src="/asset/php.png" style="width: 20px;">
 "> PHP
  
- :books: I want to learn <img src="/asset/tailwind-css.png" style="width: 20px;"> and <img src="/asset/laravel.png" style="width: 20px;">
-"/>
+ :books: I want to learn <img src="/asset/tailwind-css.png" style="width: 20px;"> and <img src="/asset/laravel.png" style="width: 10px;">
  
 
 
