@@ -37,10 +37,10 @@ I am a students at smk informatika komputer ampana kota
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="moh_fauzan1212" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="moh_fauzan1212 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="moh_fauzan1212 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="moh_fauzan1212 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="moh_fauzan1212" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website]
+<img align="left" alt="moh_fauzan1212 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter]
+<img align="left" alt="moh_fauzan1212 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+<img align="left" alt="moh_fauzan1212 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram]
 
 <br/>
 
