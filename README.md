@@ -12,7 +12,7 @@ I am a students at smk informatika komputer ampana kota
  
  🌱 I’m currently learning <img src="/asset/php.png" style="width: 20px;"> PHP
  
- :books: I want to learn <img src="/asset/tailwind-css.png" style="width: 20px;"> Tailwind-css & <img src="/asset/laravel.png" style="width: 15px;"> Laravel
+ :books: I want to learn <img src="/asset/laravel.png" style="width: 15px;"> Laravel
 
 
 ---
