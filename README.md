@@ -33,10 +33,10 @@ I am a students at smk informatika komputer ampana kota
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username={Fauzan122006}&theme=blue-green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauzan122006&theme=blue-green)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={Fauzan122006}&theme=blue-green)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzan122006&theme=blue-green)
 
 
 ---
