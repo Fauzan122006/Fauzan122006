@@ -20,7 +20,7 @@ I am a students at smk informatika komputer ampana kota
 
 ### ⚒ Languages-Frameworks-Tools ⚒
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vscode,php,cloudflare,bootstrap&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vscode,php,cloudflare,bootstrap&perline=8)](https://skillicons.dev)
 
 ---
 
