@@ -18,12 +18,9 @@ I am a students at smk informatika komputer ampana kota
 ---
 
 
-### Tech & Tools Preference
+### ⚒ Languages-Frameworks-Tools ⚒
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vscode&perline=3)](https://skillicons.dev)
-
-### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white">
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vscode,php,cloudflare,bootstrap&perline=3)](https://skillicons.dev)
 
 ---
 
