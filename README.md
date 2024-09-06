@@ -8,11 +8,11 @@
 
 I am a students at smk informatika komputer ampana kota
  
- 🔭 I’m planning for a Project **-**.
+ 🔭 I’m planning for a Project **Portofolio web**.
  
- 🌱 I’m currently learning <img src="/asset/php.png" style="width: 20px;"> PHP
+ 🌱 I’m currently learning <img src="/asset/laravel.png" style="width: 20px;"> Laravel
  
- :books: I want to learn <img src="/asset/laravel.png" style="width: 15px;"> Laravel
+ :books: I want to learn **-**
 
 
 ---
