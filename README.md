@@ -55,5 +55,5 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 [twitter]: https://twitter.com/moh_fauzan1212
 [youtube]: https://youtube.com/c/FauzanEditz
 [instagram]: https://www.instagram.com/moh_fauzan1212/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
+[linkedin]: https://www.linkedin.com/in/moh-fauzan1212/
 
