@@ -51,7 +51,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [Fauzan122006](https://github.com/Fauzan122006)
 
-[website]: https://mohfauzan.xyz/
+[website]: https://codefauzan.my.id/
 [twitter]: https://twitter.com/moh_fauzan1212
 [youtube]: https://youtube.com/c/FauzanEditz
 [instagram]: https://www.instagram.com/moh_fauzan1212/
