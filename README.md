@@ -29,8 +29,8 @@
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauzan122006)
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzan122006&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauzan122006&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzan122006&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5)
 
 </div>
 
