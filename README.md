@@ -1,12 +1,11 @@
-### Hey Fauzan here 👋
-
----
-
 <p align="center">
   <img src="/asset/zerotwo.webp" width="100%" title="Intro Card" alt="Intro Card">
 </p>
+<p align="center" weight="bold"> Hi there👋, I'm Fauzan</p>
+--
+<p align="center">I am a students at smk informatika komputer ampana kota</p>
+[![](https://visitcount.itsvg.in/api?id=Fauzan122006&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-I am a students at smk informatika komputer ampana kota
  
  🔭 I’m planning for a Project **Portofolio web**.
  
