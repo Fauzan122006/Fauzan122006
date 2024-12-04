@@ -2,9 +2,9 @@
   <img src="/asset/zerotwo.webp" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 <p align="center" weight="bold"> Hi there👋, I'm Fauzan</p>
---
+---
 <p align="center">I am a students at smk informatika komputer ampana kota</p>
-[![](https://visitcount.itsvg.in/api?id=Fauzan122006&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
+[![profileView](https://visitcount.itsvg.in/api?id=Fauzan122006&label=Profile%20Views&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
  
  🔭 I’m planning for a Project **Portofolio web**.
@@ -22,13 +22,13 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vscode,php,cloudflare,bootstrap&perline=8)](https://skillicons.dev)
 
 ---
-
+<div align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauzan122006&theme=radical)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzan122006&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzan122006&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
 
-
+</div>
 ---
 
 
