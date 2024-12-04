@@ -25,7 +25,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,vscode,php,cloudflare,bootstrap&perline=8)](https://skillicons.dev)
 
 ---
-### My Stata
+### My Stats
 
 <div align="center">
   
