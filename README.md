@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="/asset/zerotwo.webp" width="100%" title="Intro Card" alt="Intro Card">
-</p>
-<p align="center" weight="bold"> Hi there👋, I'm Fauzan</p>
+
+  ![Fauzan](asset/github-header-image.png)  
 
 ---
 
@@ -34,16 +32,18 @@
 
 </div>
 
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Fauzan122006&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Fauzan122006&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=Fauzan122006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-### You can find in me in the web 🌍
-<img align="left" alt="moh_fauzan1212" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website] <br>
-<img align="left" alt="moh_fauzan1212 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter] <br>
-<img align="left" alt="moh_fauzan1212 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin] <br>
-<img align="left" alt="moh_fauzan1212 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />[instagram]
-
-<br/>
+### Let's connect 👨‍💻
+![https://instagram.com/moh_fauzan1212](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@moh_fauzan1212](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://www.facebook.com/moh.fauznn/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
 
 
@@ -55,9 +55,9 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [Fauzan122006](https://github.com/Fauzan122006)
 
-[website]: https://codefauzan.my.id/
-[twitter]: https://twitter.com/moh_fauzan1212
-[youtube]: https://youtube.com/c/FauzanEditz
-[instagram]: https://www.instagram.com/moh_fauzan1212/
-[linkedin]: https://www.linkedin.com/in/moh-fauzan1212/
 
+###
+
+<img src="https://raw.githubusercontent.com/Fauzan122006/Fauzan122006/output/snake.svg" alt="Snake animation" />
+
+###
