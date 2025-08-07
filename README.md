@@ -6,7 +6,9 @@
 <p align="center">I am a students at smk informatika komputer ampana kota</p>
  
  ◈🔭 I’m planning for a Project **Portofolio web**.
+
  ◈🌱 I’m currently learning <img src="/asset/laravel.png" style="width: 20px;"> Laravel
+
  ◈:books: I want to be **Fullstack developer**
 
 
