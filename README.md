@@ -9,7 +9,7 @@
 
  ◈🌱 I’m currently learning <img src="/asset/laravel.png" style="width: 20px;"> Laravel
 
- ◈:books: I want to be **Fullstack developer**
+ ◈ :books: I want to be **Fullstack developer**
 
 
 ---
