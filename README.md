@@ -3,7 +3,7 @@
 
 ---
 
-<p align="center">I am a students at smk informatika komputer ampana kota</p>
+<p align="center">🎓 Computer Science Student at Universitas Muslim Indonesia</p>
  
  ◈🔭 I’m planning for a Project **Portofolio web**.
 
@@ -24,8 +24,11 @@
 
 <div align="center">
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauzan122006&show_icons=true&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzan122006&layout=compact&theme=tokyonight&size_weight=0.5&count_weight=0.5)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fauzan122006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fauzan122006&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzan122006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
@@ -39,17 +42,26 @@
 ---
 
 ### Let's connect 👨‍💻
-![https://instagram.com/moh_fauzan1212](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@moh_fauzan1212](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![https://www.facebook.com/moh.fauznn/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/moh_fauzan1212) [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@moh_fauzan1212) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/moh.fauznn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohfauzan1212)
 
 
 ---
 
-Let's connect 👨‍💻 and forge the future together.😁✌
+<div align="center">
+  
+### 💭 Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-**Check the Repositories and don't forget to give a star.** 👇
+---
+
+**Thanks for visiting! ⭐️ Feel free to explore my repositories**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Fauzan122006&color=blueviolet&style=flat-square)
 
 :star: From [Fauzan122006](https://github.com/Fauzan122006)
+
+</div>
 
 
 ###
